@@ -1,0 +1,16 @@
+#red { 
+background-color: black;
+height: 30%;
+border-style:none;
+}
+
+#white { 
+background-color: red;
+height: 30%;
+border-style:none;
+}
+#blue {
+background-color:yellow;
+height: 30%;
+border-style:none;
+}
